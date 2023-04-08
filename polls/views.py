@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse("Hello, world. 첫 django 사용")
+    return HttpResponse("Hello, world. using_git")
